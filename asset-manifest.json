@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/RoboReactRedux/static/css/main.b1d47810.chunk.css",
-    "main.js": "/RoboReactRedux/static/js/main.1cea1185.chunk.js",
-    "main.js.map": "/RoboReactRedux/static/js/main.1cea1185.chunk.js.map",
-    "runtime-main.js": "/RoboReactRedux/static/js/runtime-main.a3123697.js",
-    "runtime-main.js.map": "/RoboReactRedux/static/js/runtime-main.a3123697.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/RoboReactRedux/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.479b0ac5.chunk.js": "/RoboReactRedux/static/js/2.479b0ac5.chunk.js",
-    "static/js/2.479b0ac5.chunk.js.map": "/RoboReactRedux/static/js/2.479b0ac5.chunk.js.map",
+    "main.css": "/RoboReactRedux/static/css/main.936c8ba3.chunk.css",
+    "main.js": "/RoboReactRedux/static/js/main.ad37ecbb.chunk.js",
+    "main.js.map": "/RoboReactRedux/static/js/main.ad37ecbb.chunk.js.map",
+    "runtime-main.js": "/RoboReactRedux/static/js/runtime-main.c233697c.js",
+    "runtime-main.js.map": "/RoboReactRedux/static/js/runtime-main.c233697c.js.map",
+    "static/css/2.038644eb.chunk.css": "/RoboReactRedux/static/css/2.038644eb.chunk.css",
+    "static/js/2.345d36e4.chunk.js": "/RoboReactRedux/static/js/2.345d36e4.chunk.js",
+    "static/js/2.345d36e4.chunk.js.map": "/RoboReactRedux/static/js/2.345d36e4.chunk.js.map",
     "index.html": "/RoboReactRedux/index.html",
-    "precache-manifest.9c1d3c8cea9ce2c792633a343a17c227.js": "/RoboReactRedux/precache-manifest.9c1d3c8cea9ce2c792633a343a17c227.js",
+    "precache-manifest.9aed534eb9cc2b37006f63c6f54786fd.js": "/RoboReactRedux/precache-manifest.9aed534eb9cc2b37006f63c6f54786fd.js",
     "service-worker.js": "/RoboReactRedux/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/RoboReactRedux/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.b1d47810.chunk.css.map": "/RoboReactRedux/static/css/main.b1d47810.chunk.css.map",
-    "static/js/2.479b0ac5.chunk.js.LICENSE.txt": "/RoboReactRedux/static/js/2.479b0ac5.chunk.js.LICENSE.txt",
+    "static/css/2.038644eb.chunk.css.map": "/RoboReactRedux/static/css/2.038644eb.chunk.css.map",
+    "static/css/main.936c8ba3.chunk.css.map": "/RoboReactRedux/static/css/main.936c8ba3.chunk.css.map",
+    "static/js/2.345d36e4.chunk.js.LICENSE.txt": "/RoboReactRedux/static/js/2.345d36e4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/RoboReactRedux/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3123697.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.479b0ac5.chunk.js",
-    "static/css/main.b1d47810.chunk.css",
-    "static/js/main.1cea1185.chunk.js"
+    "static/js/runtime-main.c233697c.js",
+    "static/css/2.038644eb.chunk.css",
+    "static/js/2.345d36e4.chunk.js",
+    "static/css/main.936c8ba3.chunk.css",
+    "static/js/main.ad37ecbb.chunk.js"
   ]
 }
