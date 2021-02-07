@@ -3,6 +3,6 @@
 
 ### https://rajanpatel97.github.io/RoboReactRedux/
 
-## Checkout the React with Hooks version
+## Check out the React with Hooks version
 
 ### https://rajanpatel97.github.io/RoboReactWithHooks/
